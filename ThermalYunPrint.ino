@@ -4,6 +4,9 @@
  * - http://www.adafruit.com/products/597 and
  * - http://arduino.cc/en/Guide/ArduinoYun
  *
+ * Use the modified version of the Adafruit Thermal Printer Library that supports setFont('B'), at 
+ * https://github.com/wa5znu/Adafruit-Thermal-Printer-Library
+ *
  * Also works on Doghunter Linino.
  *
  * Sends HTTP requests and uses If-None-Match and ETags request/response headers to avoid printing the same text twice.
