@@ -1,0 +1,9 @@
+// Set this yourself
+#define PAGE ("http://example.com/print.txt")
+
+// Check every 5 seconds.  Change if you need.
+const long check_millis = 5000;
+
+// Leave this as us unless you need to debug something
+#define SERIAL_DEBUG 0
+#define PRINT 1
